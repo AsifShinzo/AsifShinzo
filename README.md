@@ -45,14 +45,6 @@ When I'm not coding, you can find me binge-watching anime! 🎥 Here are some of
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifShinzo&hide_title=true&layout=compact&theme=gruvbox)
 
-## ✨ Fun Fact
-
-Did you know? The Japanese term for "anime" is short for "animation" and encompasses all animated works, but in the West, it refers specifically to Japanese animation. 🌟
-
----
-
-Feel free to customize it further with personal details, favorite anime, or any specific projects you're working on!
-
 <!---
 AsifShinzo/AsifShinzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
