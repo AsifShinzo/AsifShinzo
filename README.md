@@ -4,7 +4,7 @@ Here's a cool and modern GitHub profile README with a touch of anime:
 
 # 🌟 Asif Shaikh | Automator & AI Enthusiast 🌟
 
-![Profile Banner](https://i.imgur.com/QdYOsy8.png) <!-- You can replace this with a custom image URL or remove it -->
+![Profile Banner](https://imgur.com/a/berserk-gToO3BP)
 
 ## 👋 Hey there! I'm Asif Shaikh
 
