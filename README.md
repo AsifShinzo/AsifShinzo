@@ -41,9 +41,9 @@ When I'm not coding, you can find me binge-watching anime! 🎥 Here are some of
 
 ## 📈 GitHub Stats
 
-![Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifShaikh&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=gruvbox)
+![Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifShinzo&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=gruvbox)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifShaikh&hide_title=true&layout=compact&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifShinzo&hide_title=true&layout=compact&theme=gruvbox)
 
 ## ✨ Fun Fact
 
