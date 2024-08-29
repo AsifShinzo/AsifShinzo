@@ -1,7 +1,3 @@
-Here's a cool and modern GitHub profile README with a touch of anime:
-
----
-
 # 🌟 Asif Shaikh | Automator & AI Enthusiast 🌟
 
 ![Profile Banner]([[https://imgur.com/a/berserk-gToO3BP](https://imgur.com/a/berserk-gToO3BP)](https://imgur.com/a/berserk-gToO3BP))
@@ -32,9 +28,9 @@ Welcome to my GitHub profile! I'm passionate about **Automation** and **AI** and
 
 When I'm not coding, you can find me binge-watching anime! 🎥 Here are some of my all-time favorite anime:
 
-- **Naruto**
+- **Berserk**
 - **Attack on Titan**
-- **My Hero Academia**
+- **Bleach**
 - **One Piece**
 
 ## 💬 Let's Connect!
