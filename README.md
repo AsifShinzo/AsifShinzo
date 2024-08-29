@@ -36,7 +36,7 @@ When I'm not coding, you can find me binge-watching anime! 🎥 Here are some of
 ## 💬 Let's Connect!
 <!--- 
 - [LinkedIn](https://www.linkedin.com/in/asifshaikh) --->
-- [Twitter]([https://twitter.com/AsifShaikh](https://x.com/AsifShaikh_Art))
+- [Twitter](https://x.com/AsifShaikh_Art)
 - [Portfolio](https://asifshaikh.dev)
 
 ## 📈 GitHub Stats
