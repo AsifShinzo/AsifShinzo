@@ -1,6 +1,6 @@
 # 🌟 Asif Shaikh | Automator & AI Enthusiast 🌟
 
-![Profile Banner]([[https://imgur.com/a/berserk-gToO3BP](https://imgur.com/a/berserk-gToO3BP)](https://imgur.com/a/berserk-gToO3BP))
+![Profile Banner](https://imgur.com/a/berserk-gToO3BP)
 
 ## 👋 Hey there! I'm Asif Shaikh
 
