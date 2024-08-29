@@ -1,6 +1,6 @@
 # 🌟 Asif Shaikh | Automator & AI Enthusiast 🌟
 
-![Profile Banner](https://wallpapers.com/images/file/idle-swordsman-guts-berserk-bevobdbns6bzb85k.jpg)
+![Profile Banner](https://i.pinimg.com/originals/48/06/28/4806281eb51778bda242a5bb90284a97.jpg)
 
 ## 👋 Hey there! I'm Asif Shaikh
 
