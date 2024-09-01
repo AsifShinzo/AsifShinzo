@@ -24,15 +24,6 @@ Welcome to my GitHub profile! I'm passionate about **Automation** and **AI** and
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
 
-## 🌸 Anime Lover
-
-When I'm not coding, you can find me binge-watching anime! 🎥 Here are some of my all-time favorite anime:
-
-- **Berserk**
-- **Attack on Titan**
-- **Bleach**
-- **One Piece**
-
 ## 💬 Let's Connect!
 <!--- 
 - [LinkedIn](https://www.linkedin.com/in/asifshaikh) --->
